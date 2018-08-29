@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "v4Sample-AADv2", "v4Sample-AADv2\v4Sample-AADv2.csproj", "{D4C79A3F-4607-4D6E-8641-C01CB519D422}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug - NuGet Packages|Any CPU = Debug - NuGet Packages|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Documentation|Any CPU = Documentation|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4C79A3F-4607-4D6E-8641-C01CB519D422}.Debug - NuGet Packages|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4C79A3F-4607-4D6E-8641-C01CB519D422}.Debug - NuGet Packages|Any CPU.Build.0 = Debug|Any CPU
+		{D4C79A3F-4607-4D6E-8641-C01CB519D422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4C79A3F-4607-4D6E-8641-C01CB519D422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4C79A3F-4607-4D6E-8641-C01CB519D422}.Documentation|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4C79A3F-4607-4D6E-8641-C01CB519D422}.Documentation|Any CPU.Build.0 = Debug|Any CPU
+		{D4C79A3F-4607-4D6E-8641-C01CB519D422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4C79A3F-4607-4D6E-8641-C01CB519D422}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C65B005B-FBCA-44D5-8AFF-B86A9C6001C7}
+	EndGlobalSection
+EndGlobal
